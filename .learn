@@ -4,3 +4,5 @@ tags:
 languages: 
   - SQL
   
+
+parent_template: git@github.com:learn-co-curriculum/sql-joins-readme.git
