@@ -321,4 +321,8 @@ Lil' Bub         perma-kitten
 
 Our result includes both cats without owners and owners without cats. In other words, it includes *all* of our data. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-joins-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-joins-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG SQL Joins</p>
